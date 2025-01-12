@@ -1,2 +1,3 @@
 # VisionShift
-An object tracker for computer vision using the Mean Shift algorithm, featuring histogram-based segmentation and backprojection. 
+This project implements the Mean Shift algorithm for object tracking and segmentation, with examples and documentation - based on Mean Shift: A Robust Approach Toward Feature Space Analysis (Comaniciu & Meer, 2002).
+
